@@ -7,7 +7,6 @@ import com.github.lalyos.jfiglet.FigletFont;
  */
 public class App {
     public static void main(String[] args) {
-        System.out.println("Hello World!");
-        System.out.println(FigletFont.convertOneLine("Patate"));
+        System.out.println(FigletFont.convertOneLine("App"));
     }
 }
